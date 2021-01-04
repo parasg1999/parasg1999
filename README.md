@@ -27,28 +27,24 @@
 
 ### 🛠 &nbsp;Languages and Tools
 
-![C++](http://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
+![C++](http://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=c%2B%2B&logoColor=black)
 ![Go](https://img.shields.io/badge/-Go-7FD5EA?style=flat-square&logo=go&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/-Nodejs-026E00?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![nginx](https://img.shields.io/badge/-nginx-009137?style=flat-square&logo=nginx&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-F0931C?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-12924F?style=flat-square&logo=mongodb&logoColor=ffffff)
-
+![MongoDB](https://img.shields.io/badge/-MongoDB-12924F?style=flat-square&logo=mongodb&logoColor=ffffff)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Material-UI](https://img.shields.io/badge/-Material%E2%80%93UI-0081CB?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)  
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)  
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Arch](https://img.shields.io/badge/-BTW,%20I%20use%20Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
