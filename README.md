@@ -51,7 +51,14 @@
 ![Arch](https://img.shields.io/badge/-BTW,%20I%20use%20Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
+<hr/>
+
 ### ⚙️ &nbsp;GitHub Analytics
+
+<details>
+  &nbsp;&nbsp;<summary>
+    Click to show
+  </summary>
 
 <p align="center">
 <a href="https://github.com/parasg1999">
@@ -60,6 +67,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parasg1999&theme=algolia&hide_border=true" alt="streak-parasg1999" />
 </a>
 </p>
+  </details>
+
+<hr/>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
