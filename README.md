@@ -30,7 +30,6 @@
 ### 🛠 &nbsp;Languages and Tools
 
 ![C++](http://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=c%2B%2B&logoColor=black)
-![Go](https://img.shields.io/badge/-Go-7FD5EA?style=flat-square&logo=go&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/-Nodejs-026E00?style=flat-square&logo=node-dot-js&logoColor=ffffff)
@@ -38,7 +37,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-F0931C?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-12924F?style=flat-square&logo=mongodb&logoColor=ffffff)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/-Material%E2%80%93UI-0081CB?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -50,7 +49,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)  
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Arch](https://img.shields.io/badge/-BTW,%20I%20use%20Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 <hr/>
