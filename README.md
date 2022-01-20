@@ -9,8 +9,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science, and developing Web Applications using Node.js and React.\
-🌱 &nbsp;I'm on track for learning about Systems Design, Data Structures, Golang and Cloud Architecture.\
+👨‍💻 &nbsp; I'm a Software Developer at Amazon, and developing Web Applications using Node.js and React.\
+🎓 &nbsp;I'm a Computer Science graduate from IIIT Una'21.\
+🌱 &nbsp;I'm on track for learning about Systems Design, and Microservice Architecture.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email! I'll try to respond as soon as I can.
 
