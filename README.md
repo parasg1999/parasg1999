@@ -74,7 +74,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://parasg1999.github.io"><img src="https://img.shields.io/badge/-parasg1999.github.io-3423A6?style=for-the-badge&logo=firefox&logoColor=white"/></a>&nbsp;
+<a href="https://parasgupta.co"><img src="https://img.shields.io/badge/-parasgupta.co-3423A6?style=for-the-badge&logo=firefox&logoColor=white"/></a>&nbsp;
 <a href="https://linkedin.com/in/parasg1999"><img src="https://img.shields.io/badge/-Paras%20Gupta-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://mailhide.io/e/tfq0ntnU"><img src="https://img.shields.io/badge/-reveal-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://twitter.com/parasg1999" target="_blank"><img src="https://img.shields.io/twitter/follow/parasg1999?logo=twitter&style=for-the-badge" alt="twitter-parasg1999" /></a>&nbsp;
