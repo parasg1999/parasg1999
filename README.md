@@ -3,7 +3,7 @@
 
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=parasg19991&color=237B1E" alt="parasg1999" />
+  <img src="https://komarev.com/ghpvc/?username=parasg1999&color=blue&style=for-the-badge" alt="parasg1999" />
 </p>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
