@@ -23,7 +23,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://parasg1999-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/parasg1999)
+[![Spotify](https://parasg1999-spotify.vercel.app/api/spotify/?background_color=000000&border_color=ffffff)](https://open.spotify.com/user/parasg1999)
 
 ---
 
