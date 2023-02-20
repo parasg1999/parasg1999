@@ -11,7 +11,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-👨‍💻 &nbsp; I'm a Software Developer at Spenny, and developing Web Applications using Node.js and React.\
+👨‍💻 &nbsp;I'm a Software Developer at Spenny, and developing Web Applications using Node.js and React.\
 🎓 &nbsp;I'm a Computer Science graduate from IIIT Una'21.\
 🌱 &nbsp;I'm on track for learning about Systems Design, and Microservice Architecture.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
