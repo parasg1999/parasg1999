@@ -2,9 +2,9 @@
 ## Hey 👋, I'm [Paras Gupta](https://parasg1999.github.io)
 
 
-<p align="left"> 
+<!-- <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=parasg1999&color=blue&style=for-the-badge" alt="parasg1999" />
-</p>
+</p> -->
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
