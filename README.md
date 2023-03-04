@@ -1,21 +1,19 @@
 
 ## Hey 👋, I'm [Paras Gupta](https://parasg1999.github.io)
-
-
 <!-- <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=parasg1999&color=blue&style=for-the-badge" alt="parasg1999" />
 </p> -->
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<!-- <img align="right" alt="GIF" height="160px" top="40px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
 
 ### 👨🏻‍💻 &nbsp;About Me
-
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-👨‍💻 &nbsp;I'm a Software Developer at Spenny, and developing Web Applications using Node.js and React.\
-🎓 &nbsp;I'm a Computer Science graduate from IIIT Una'21.\
-🌱 &nbsp;I'm on track for learning about Systems Design, and Microservice Architecture.\
-💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email! I'll try to respond as soon as I can.
+👨‍💻 &nbsp;Backend Engineer at Spenny, and building scalable systems using Node.js and SQL.\
+🎓 &nbsp;Bachelor of Technology in Computer Science from IIIT Una 2021.\
+🌱 &nbsp;Learning about Systems Design, and Microservice Architecture.\
+💬 &nbsp;Feel free to reach out to me for some interesting discussion related to Techonology or F1.\
+✉️ &nbsp;You can shoot me an <a href="https://mailhide.io/e/tfq0ntnU">email</a>. I'll try to respond as soon as I can!
+
 
 ---
 
@@ -89,7 +87,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://parasgupta.co"><img src="https://img.shields.io/badge/-parasgupta.co-3423A6?style=for-the-badge&logo=firefox&logoColor=white"/></a>&nbsp;
+<!-- <a href="https://parasgupta.co"><img src="https://img.shields.io/badge/-parasgupta.co-3423A6?style=for-the-badge&logo=firefox&logoColor=white"/></a>&nbsp; -->
 <a href="https://linkedin.com/in/parasg1999"><img src="https://img.shields.io/badge/-Paras%20Gupta-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://mailhide.io/e/tfq0ntnU"><img src="https://img.shields.io/badge/-reveal-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://twitter.com/parasg1999" target="_blank"><img src="https://img.shields.io/badge/-parasg1999-00acee?logo=twitter&style=for-the-badge&logoColor=white" alt="twitter-parasg1999" /></a>&nbsp;
